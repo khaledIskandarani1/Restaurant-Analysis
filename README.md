@@ -8,6 +8,9 @@ Pizza Place Sales A year's worth of sales from a fictitious pizza place, includi
 - Pizzas that requires Promotions.
 - Most and Least Used Ingredients
 
+  ![image](https://github.com/user-attachments/assets/f96dc60a-26f2-4b8d-ba67-aee0315fe399)
+
+
 
 
 
